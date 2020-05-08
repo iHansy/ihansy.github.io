@@ -1,7 +1,12 @@
-p {
-  color: blue;
-  font-size: 500px;
-}
 h1 {
-  color:red;
+ font: sans-terif;
+ color: blue;
+}
+
+h4 {
+ color: orange; 
+}
+
+p {
+ color: orange; 
 }
