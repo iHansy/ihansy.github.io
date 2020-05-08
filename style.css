@@ -1,1 +1,17 @@
+html, body {
+    background-image: url("https://img.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg?size=626&ext=jpg");
+}
 
+.name {
+    margin-left: 250px;
+    margin-right: 200px;
+    margin-top: 75px;
+}
+
+.logistics {
+    float: right;
+    margin-right: 400px;
+    margin-top: 0px;
+    line-height: 0.3;
+    font-family: georgia;
+}
