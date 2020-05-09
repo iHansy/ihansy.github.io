@@ -1,17 +1,51 @@
 html, body {
     background-image: url("https://img.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg?size=626&ext=jpg");
+    font-family: arial;
 }
 
 .name {
     margin-left: 250px;
     margin-right: 200px;
     margin-top: 75px;
+    font-size: 22px;
 }
 
 .logistics {
     float: right;
-    margin-right: 400px;
+    margin-right: 250px;
     margin-top: 0px;
     line-height: 0.3;
-    font-family: georgia;
+    font-size: 15px;
 }
+
+.work-experience {
+    margin-left: 250px;
+    margin-top: 75px;
+    font-size: 20px;
+}
+
+.hid {
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+.top-line {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.hid-time {
+    position: relative;
+    float: right;
+    margin-right: 250px;
+    top: -55px;
+}
+
+.hid-location {
+    margin-left: 250px;
+    position: relative;
+    top: -22px;
+    font-size: 15px;
+    font-style: italic;
+}
+
