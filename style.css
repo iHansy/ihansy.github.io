@@ -158,14 +158,20 @@ html, body {
 }
 
 .pizza-down {
-    margin-top: 55px;
+    margin-top: 65px;
 }
 
 .education {
-    margin-top: -55px;
+    margin-top: -45px;
     font-size: 20px;
 }
 
 .bottom-line {
     margin-right: 250px;
+}
+
+.education-move {
+    margin-top: 40px;
+    margin-right: 250px;
+    line-height: 2.0;
 }
