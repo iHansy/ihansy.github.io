@@ -1,5 +1,6 @@
 html, body {
-    background-image: url("https://img.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg?size=626&ext=jpg");
+    background-image: url("https://image.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg");
+    background-size: cover;
     font-family: arial;
 }
 
@@ -49,3 +50,55 @@ html, body {
     font-style: italic;
 }
 
+.hid-laidoff {
+    float:right;
+    position: relative;
+    left: 157px;
+    top: -67px;
+    font-size: 13px;
+}
+
+.hid-description {
+    margin-left: 250px;
+    display: inline-block;
+    position: relative;
+    top: -77px;
+}
+
+.djo {
+    margin-top: 40px;
+}
+
+.djo-time {
+    position: relative;
+    float: right;
+    margin-right: 250px;
+    top: -95px;
+}
+
+.djo-location {
+    position: relative;
+    top: -42px;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.djo-laidoff {
+    float:right;
+    position: relative;
+    left: 203px;
+    top: -107px;
+    font-size: 13px;
+}
+
+.djo-description {
+    display: inline-block;
+    position: relative;
+    top: -97px;
+    margin-right: 250px;
+}
+
+.djo-pcs {
+    position: relative;
+    top: -22px;
+}
